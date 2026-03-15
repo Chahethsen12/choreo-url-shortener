@@ -1,0 +1,4 @@
+[package]
+org = "chahethsen"
+name = "url_shortener"
+version = "0.1.0"
